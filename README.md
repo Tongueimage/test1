@@ -1,2 +1,2 @@
 # test1
-learngit
+learn git and use some useful extensions for your browser
